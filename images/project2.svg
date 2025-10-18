@@ -1,0 +1,58 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#2c3e50"/>
+  
+  <!-- Task Management App mockup -->
+  <rect x="150" y="50" width="500" height="400" rx="10" fill="#34495e"/>
+  
+  <!-- App Header -->
+  <rect x="150" y="50" width="500" height="50" rx="10" fill="#8e44ad"/>
+  <text x="400" y="80" font-family="Arial" font-size="18" fill="white" text-anchor="middle">Task Manager</text>
+  
+  <!-- Sidebar -->
+  <rect x="150" y="100" width="120" height="350" fill="#2c3e50"/>
+  <rect x="170" y="120" width="80" height="20" rx="5" fill="#9b59b6"/>
+  <rect x="170" y="160" width="80" height="20" rx="5" fill="#ecf0f1"/>
+  <rect x="170" y="200" width="80" height="20" rx="5" fill="#ecf0f1"/>
+  <rect x="170" y="240" width="80" height="20" rx="5" fill="#ecf0f1"/>
+  
+  <!-- Task Columns -->
+  <rect x="280" y="110" width="110" height="330" rx="5" fill="#3498db" opacity="0.2"/>
+  <rect x="290" y="120" width="90" height="20" rx="5" fill="#3498db"/>
+  <text x="335" y="135" font-family="Arial" font-size="12" fill="white" text-anchor="middle">To Do</text>
+  
+  <rect x="400" y="110" width="110" height="330" rx="5" fill="#f39c12" opacity="0.2"/>
+  <rect x="410" y="120" width="90" height="20" rx="5" fill="#f39c12"/>
+  <text x="455" y="135" font-family="Arial" font-size="12" fill="white" text-anchor="middle">In Progress</text>
+  
+  <rect x="520" y="110" width="110" height="330" rx="5" fill="#2ecc71" opacity="0.2"/>
+  <rect x="530" y="120" width="90" height="20" rx="5" fill="#2ecc71"/>
+  <text x="575" y="135" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Done</text>
+  
+  <!-- Task Cards -->
+  <rect x="290" y="150" width="90" height="70" rx="5" fill="#ecf0f1"/>
+  <rect x="300" y="160" width="70" height="10" rx="2" fill="#3498db"/>
+  <rect x="300" y="180" width="70" height="30" rx="2" fill="#bdc3c7"/>
+  
+  <rect x="290" y="230" width="90" height="70" rx="5" fill="#ecf0f1"/>
+  <rect x="300" y="240" width="70" height="10" rx="2" fill="#3498db"/>
+  <rect x="300" y="260" width="70" height="30" rx="2" fill="#bdc3c7"/>
+  
+  <rect x="410" y="150" width="90" height="70" rx="5" fill="#ecf0f1"/>
+  <rect x="420" y="160" width="70" height="10" rx="2" fill="#f39c12"/>
+  <rect x="420" y="180" width="70" height="30" rx="2" fill="#bdc3c7"/>
+  
+  <rect x="530" y="150" width="90" height="70" rx="5" fill="#ecf0f1"/>
+  <rect x="540" y="160" width="70" height="10" rx="2" fill="#2ecc71"/>
+  <rect x="540" y="180" width="70" height="30" rx="2" fill="#bdc3c7"/>
+  
+  <rect x="530" y="230" width="90" height="70" rx="5" fill="#ecf0f1"/>
+  <rect x="540" y="240" width="70" height="10" rx="2" fill="#2ecc71"/>
+  <rect x="540" y="260" width="70" height="30" rx="2" fill="#bdc3c7"/>
+  
+  <!-- Add Task Button -->
+  <circle cx="335" cy="350" r="20" fill="#3498db"/>
+  <text x="335" y="355" font-family="Arial" font-size="20" fill="white" text-anchor="middle">+</text>
+  
+  <text x="400" y="480" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Task Management App</text>
+</svg>

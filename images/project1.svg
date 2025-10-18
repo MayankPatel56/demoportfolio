@@ -1,0 +1,38 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#2c3e50"/>
+  
+  <!-- E-commerce website mockup -->
+  <rect x="100" y="50" width="600" height="400" rx="10" fill="#34495e"/>
+  
+  <!-- Header -->
+  <rect x="100" y="50" width="600" height="60" rx="10" fill="#2980b9"/>
+  <circle cx="130" cy="80" r="15" fill="#3498db"/>
+  <rect x="160" y="70" width="100" height="20" rx="5" fill="#ecf0f1"/>
+  <rect x="500" y="70" width="50" height="20" rx="5" fill="#ecf0f1"/>
+  <rect x="570" y="70" width="50" height="20" rx="5" fill="#ecf0f1"/>
+  <rect x="640" y="70" width="40" height="20" rx="5" fill="#e74c3c"/>
+  
+  <!-- Product Grid -->
+  <rect x="120" y="130" width="170" height="150" rx="5" fill="#ecf0f1"/>
+  <rect x="130" y="250" width="150" height="20" rx="5" fill="#3498db"/>
+  
+  <rect x="310" y="130" width="170" height="150" rx="5" fill="#ecf0f1"/>
+  <rect x="320" y="250" width="150" height="20" rx="5" fill="#3498db"/>
+  
+  <rect x="500" y="130" width="170" height="150" rx="5" fill="#ecf0f1"/>
+  <rect x="510" y="250" width="150" height="20" rx="5" fill="#3498db"/>
+  
+  <rect x="120" y="300" width="170" height="150" rx="5" fill="#ecf0f1"/>
+  <rect x="130" y="420" width="150" height="20" rx="5" fill="#3498db"/>
+  
+  <rect x="310" y="300" width="170" height="150" rx="5" fill="#ecf0f1"/>
+  <rect x="320" y="420" width="150" height="20" rx="5" fill="#3498db"/>
+  
+  <rect x="500" y="300" width="170" height="150" rx="5" fill="#ecf0f1"/>
+  <rect x="510" y="420" width="150" height="20" rx="5" fill="#3498db"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="700" cy="80" r="15" fill="#e74c3c"/>
+  <text x="400" y="480" font-family="Arial" font-size="14" fill="white" text-anchor="middle">E-Commerce Website</text>
+</svg>
